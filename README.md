@@ -97,11 +97,9 @@ All support is welcomed! Sponsors as well! ❤️
 
 GitUI is in beta and may contain bugs and missing features. However, for personal use it is reasonably stable and is being used while developing itself.
 
-<a href="https://repology.org/project/gitui/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/gitui.svg?exclude_unsupported=true" alt="Packaging status" align="right">
-</a>
-
 ### Various Package Managers
+
+[![Packaging status](https://repology.org/badge/vertical-allrepos/gitui.svg?exclude_unsupported=true&columns=2)](https://repology.org/project/gitui/versions)
 
 <details>
   <summary>Install Instructions</summary>
