@@ -19,7 +19,7 @@
 [s8]: https://img.shields.io/discord/1176858176897953872
 [l8]: https://discord.gg/rQNeEnMhus
 
-<h5 align="center">GitUI provides you with the comfort of a git GUI but right in your terminal</h1>
+<h5 align="center">GitUI provides you with the comfort of a git GUI but right in your terminal</h5>
 
 ![](demo.gif)
 
